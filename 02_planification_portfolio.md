@@ -105,7 +105,7 @@ Copier-coller votre objectif de carrière ici.
 ### La Maison est un jeu interactif développé en HTML et CSS et un peu de JS.
 ### Le joueur explore une vieille maison mystérieuse en faisant des choix à chaque étape. Chaque page correspond à une pièce ou un étage de la maison, avec des images et des boutons pour naviguer. 
 ## Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):  
-https://xaviermartineau.github.io/La_Maison_xavier/
+### https://xaviermartineau.github.io/La_Maison_xavier/
 
 # Projet 4
 ## Nom de votre projet: 
