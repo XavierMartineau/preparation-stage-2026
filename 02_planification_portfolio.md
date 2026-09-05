@@ -29,21 +29,31 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Copier-coller votre objectif de carrière ici. 
 
 # Projet 1 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+## xavier_color_palet 
+## Mention académique ou personnel: 
+### Personel     
+## Réalisé dans le cadre du cours:
+### Aucun cours
+## Individuel ou en équipe
+### Seul
+## Nom de vos coéquipiers: 
+### Personne
+## Votre ou vos rôle(s) dans le projet:
+### Codeur    
+## Logiciels ou techniques utilisées: 
+### Visual studio code   
+## Catégorie du projet: 
+## Description courte du projet (Résumé en 1 phrase):
+### Un site web pour voir et copier coler différente type de couleur par catégorie
+##Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): 
+### Projet personnel donc aucune consigne
+## Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+### Jai réaliser un site web en code pour que les utilisateur ou moi puisse avoir acces a une variété de couleur 
+## Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+### https://xaviermartineau.github.io/xavier_color_palet/
 
 # Projet 2 
-Nom de votre projet:     
+## Nom de votre projet:     
 Mention académique ou personnel:     
 Réalisé dans le cadre du cours:        
 Individuel ou en équipe:     
