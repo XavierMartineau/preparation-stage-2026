@@ -19,11 +19,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [ ] PHP
-- [ ] SQL
-- [ ] C# (Unity)
-- [ ] C++ (Arduino)
-- [ ] Connaissance de systèmes de gestion de contenu (CMS)
+
 
 # Objectif de carrière
 Copier-coller votre objectif de carrière ici. 
