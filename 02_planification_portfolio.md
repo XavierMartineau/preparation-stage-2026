@@ -101,10 +101,10 @@ Copier-coller votre objectif de carrière ici.
 ### On est enfermée dans une maison et on dois reussir en sortir de la maison a laide des chemins
 ## Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): 
 ### Le prof nous a demander de cree un jeu vidéo type labyrinthe. A travers les pages on cherche a senfuir dun endroit. 
-##Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): 
-## La Maison est un jeu interactif développé en HTML et CSS.
-Le joueur explore une vieille maison mystérieuse en faisant des choix à chaque étape. Chaque page correspond à une pièce ou un étage de la maison, avec des images et des boutons pour naviguer. 
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):  
+## Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): 
+### La Maison est un jeu interactif développé en HTML et CSS.
+### Le joueur explore une vieille maison mystérieuse en faisant des choix à chaque étape. Chaque page correspond à une pièce ou un étage de la maison, avec des images et des boutons pour naviguer. 
+## Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):  
 https://xaviermartineau.github.io/La_Maison_xavier/
 
 # Projet 4
