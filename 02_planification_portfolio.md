@@ -1,22 +1,22 @@
 # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
-- [ ] Designer, coder et publier des sites Web dynamiques    
+- [X] Designer, coder et publier des sites Web dynamiques    
 - [ ] Réaliser et tourner des vidéos    
 - [ ] Animer des créations 2D et 3D    
 - [ ] Concevoir des compositions sonores et visuelles interactives    
 - [ ] Assembler des environnements de réalité virtuelle    
 - [ ] Élaborer des spectacles augmentés    
-- [ ] Exploiter les nouvelles technologies et leur potentiel créateur    
-- [ ] Penser et optimiser l’expérience utilisateur    
-- [ ] Créer des univers immersifs et interactifs    
+- [X] Exploiter les nouvelles technologies et leur potentiel créateur    
+- [X] Penser et optimiser l’expérience utilisateur    
+- [X] Créer des univers immersifs et interactifs    
 - [ ] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
 
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [ ] Visual Studio Code
-- [ ] Photoshop
-- [ ] Illustrator
+- [X] Visual Studio Code
+- [X] Photoshop
+- [X] Illustrator
 - [ ] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
@@ -29,7 +29,8 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Max
 - [ ] Arduino
 - [ ] MadMapper
-- [ ] Microsoft Teams
+- [X] Microsoft Teams
+- [ ] Touch-Designer
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
