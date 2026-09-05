@@ -37,7 +37,7 @@ Copier-coller votre objectif de carrière ici.
 ## Individuel ou en équipe
 ### Seul
 ## Nom de vos coéquipiers: 
-### Personne
+### Non aplicable
 ## Votre ou vos rôle(s) dans le projet:
 ### Codeur    
 ## Logiciels ou techniques utilisées: 
@@ -53,18 +53,30 @@ Copier-coller votre objectif de carrière ici.
 ### https://xaviermartineau.github.io/xavier_color_palet/
 
 # Projet 2 
-## Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+## Nom de votre projet: 
+### Projet TP4 Xavier Martineau     
+## Mention académique ou personnel
+### Academique
+## Réalisé dans le cadre du cours:   
+### Intéractivité ludique
+## Individuel ou en équipe:
+### Individuel 
+## Nom de vos coéquipiers:
+### Non aplicable
+## Votre ou vos rôle(s) dans le projet:    
+### Cree le jeu vidéo
+## Logiciels ou techniques utilisées:
+### Godot engine, Visuel studio code
+## Catégorie du projet:  
+### Jeu vidéo
+## Description courte du projet (Résumé en 1 phrase): 
+### Un personnage qui dois se rendre a la fin du jeu en terminant plusieur niveau
+## Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):    
+### Le prof avais demander de cree un jeu video asser basique pour l'affichier sur le web par la suite. Le projet devais etre realisée avec le GD script sois le script du logiciel GODOT
+## Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):  
+### jai réaliser un projet avec plusieur niveau basique a travers lequel un personnage dois finir le niveau. Chaque niveau est une nouvelle épreuve a franchir pour arriver a la fin! 
+## Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):    
+### https://github.com/XavierMartineau/martineau_xavier_Tp4
 
 
 # Projet 3 
