@@ -108,18 +108,30 @@ Copier-coller votre objectif de carrière ici.
 https://xaviermartineau.github.io/La_Maison_xavier/
 
 # Projet 4
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+## Nom de votre projet: 
+### martineau_xavier generique finale 582 414MO
+## Mention académique ou personnel:    
+### Académique
+## Réalisé dans le cadre du cours:
+### Animation 3D
+## Individuel ou en équipe:    
+### Équipes
+## Nom de vos coéquipiers:     
+### Maxime Rocheleau
+## Votre ou vos rôle(s) dans le projet:
+### Cree la partie Animation du personnage et des formes présentes
+## Logiciels ou techniques utilisées:  
+### Maya, Davinci Resolve
+## Catégorie du projet:      
+### Vidéo
+## Description courte du projet (Résumé en 1 phrase):    
+### Un générique de fin sur un theme sombre et rouge.
+## Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  
+### On devais realiser une animation 3D complete pour un générique de fin. Avec Des animation et des personnage et decors realiser par nous mêmes.
+## Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):   
+### Jai realiser un projet a lalure sombre et rouge dun générique complet. Comportant titre, mots de la fin, credit.
+## Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):    
+### https://youtu.be/Bkvwrvg_bws?si=p-MRXsUmR6y_6HF1
 
 # Projet 5 (Optionnel)
 Nom de votre projet:     
